@@ -227,7 +227,7 @@
                 <td>Pool</td>
             </tr>
             <tr>
-                <td rowspan="3">Storage</td>
+                <td rowspan="4">Storage</td>
                 <td rowspan="3">Block Storage</td>
                 <td>Block Storage</td>
             </tr>
@@ -236,6 +236,10 @@
             </tr>
             <tr>
                 <td>Block Storage Type</td>
+            </tr>
+            <tr>
+                <td>Object Storage</td>
+                <td>Container</td>
             </tr>
             <tr>
                 <td rowspan="14">Database</td>
